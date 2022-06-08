@@ -1,6 +1,6 @@
 {
   "name": "validate-vat",
-  "version": "0.3.0.1",
+  "version": "0.8.0",
   "description": "A Europe VAT number validation lib",
   "main": "lib/index.js",
   "dependencies": {},
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/frontend-robot/validate-vat.git"
+    "url": "https://github.com/frontend-robot/validate-vat"
   },
   "keywords": [
     "VAT",
