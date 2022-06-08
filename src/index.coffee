@@ -40,7 +40,6 @@ headers =
   'Accept-Encoding': 'none'
   'Accept-Charset': 'utf-8'
   'Connection': 'close'
-  'Host' : parsedUrl.hostname
 
 getReadableErrorMsg = (faultstring) ->
   if ERROR_MSG[faultstring]?
